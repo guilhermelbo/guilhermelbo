@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/guilhermelbo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermelbo&theme=dark&show_icons=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbo&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermelbo&theme=dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbo&layout=compact&theme=dark"/>
 </div>
 <br/>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
