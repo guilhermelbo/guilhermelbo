@@ -1,6 +1,6 @@
 ## Olá, meu nome é Guilherme Luiz, sou desenvolvedor django
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/guilhermelbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelbo&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbo&layout=compact&theme=dark"/>
