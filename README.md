@@ -1,4 +1,4 @@
-## Olá, meu nome é Guilherme Luiz, sou desenvolvedor django
+## Olá, meu nome é Guilherme Luiz, sou desenvolvedor python/django
 
 <div style="display: inline_block">
   <a href="https://github.com/guilhermelbo">
